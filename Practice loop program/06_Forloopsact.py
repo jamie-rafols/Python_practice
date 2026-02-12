@@ -11,8 +11,13 @@
 #     print(num, "Multiply by", i, "=", num * i)
 
 #Number 3
-sum = 0
+# sum = 0
 
-for i in range (1,101):
-    sum += i # sum = sum + i
-    print(sum)
+# for i in range (1,101):
+#     sum += i # sum = sum + i
+#     print(sum)
+
+#Number 4
+
+for i in range(1,5):
+    print("*"*i)

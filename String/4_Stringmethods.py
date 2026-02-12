@@ -21,7 +21,7 @@
 
 #Checking string
 text = "Python213"
-# print(text.isalpha())
-# print(text.isdigit())
-# print(text.isalpha())
-# print(text.isspace())
+print(text.isalpha())
+print(text.isdigit())
+print(text.isalnum())
+print(text.isspace())
